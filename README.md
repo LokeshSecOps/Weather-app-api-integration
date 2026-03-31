@@ -20,4 +20,4 @@ Frontend: HTML, CSS, JavaScript
 
 API: Weather by API Ninjas (RapidAPI)
 
-Hosting: GitHub Page
+Hosting: GitHub Page 
