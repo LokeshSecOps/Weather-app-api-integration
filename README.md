@@ -15,7 +15,7 @@ This project is part of CodTech Internship - Task 1 (API Integration).
 ⚡ Real-time API integration using fetch()
 
 🛠️ Tech Stack
-
+ 
 Frontend: HTML, CSS, JavaScript
 
 API: Weather by API Ninjas (RapidAPI)
