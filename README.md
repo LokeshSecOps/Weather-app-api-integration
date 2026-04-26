@@ -18,6 +18,6 @@ This project is part of CodTech Internship - Task 1 (API Integration).
  
 Frontend: HTML, CSS, JavaScript
 
-API: Weather by API Ninjas (RapidAPI)
+API: Weather by API Ninjas (RapidAPI) 
 
 Hosting: GitHub Page 
