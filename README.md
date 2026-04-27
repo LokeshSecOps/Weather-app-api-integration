@@ -12,7 +12,7 @@ This project is part of CodTech Internship - Task 1 (API Integration).
 
 📱 Responsive design (works on mobile & desktop)
 
-⚡ Real-time API integration using fetch()
+⚡ Real-time API integration using fetch() 
 
 🛠️ Tech Stack
  
