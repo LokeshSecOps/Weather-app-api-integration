@@ -10,7 +10,7 @@ This project is part of CodTech Internship - Task 1 (API Integration).
 
 🌡 Displays temperature, humidity, wind speed, and conditions
 
-📱 Responsive design (works on mobile & desktop)
+📱 Responsive design (works on mobile & desktop) 
 
 ⚡ Real-time API integration using fetch() 
 
