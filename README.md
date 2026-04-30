@@ -14,7 +14,7 @@ This project is part of CodTech Internship - Task 1 (API Integration).
 
 ⚡ Real-time API integration using fetch() 
 
-🛠️ Tech Stack 
+🛠️ Tech Stack  
  
 Frontend: HTML, CSS, JavaScript
 
