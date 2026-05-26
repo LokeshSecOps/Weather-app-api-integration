@@ -6,7 +6,7 @@ This project is part of CodTech Internship - Task 1 (API Integration).
 
 🚀 Features 
 
-🌍 Search weather by city name
+🌍 Search weather by city name 
  
 🌡 Displays temperature, humidity, wind speed, and conditions
    
